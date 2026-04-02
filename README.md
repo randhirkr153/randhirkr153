@@ -37,33 +37,29 @@
 ## 📂 Projects
 
 ### 🌱 Plant Disease Detection System
-- 📱 Flutter + CNN based mobile app
-- 🔍 Real-time disease detection using image classification
-- ⚡ Integrated ML backend with OpenCV preprocessing
-- 🌍 Built for practical farmer usability
+🔗 [View Project](https://github.com/randhirkr153/Plant-Desease-Detection-System-)
+- 📱 Flutter + CNN based mobile app  
+- 🔍 Real-time disease detection using image classification  
+- ⚡ Integrated ML backend with OpenCV preprocessing  
+- 🌍 Built for practical farmer usability  
 
 ---
 
 ### 🧭 PivotPath: Advanced Routing Engine
-- 🚀 Optimized shortest path beyond Dijkstra
-- ⚙️ Used dynamic programming & heuristics
-- 📊 Handles large-scale graph datasets efficiently
-- 🔄 Designed for real-world navigation systems
+🔗 [View Project](https://github.com/randhirkr153/PivotPath-A-Next-Generation-Routing-Engine-Beyond-Dijkstra)
+- 🚀 Optimized shortest path beyond Dijkstra  
+- ⚙️ Used dynamic programming & heuristics  
+- 📊 Handles large-scale graph datasets efficiently  
+- 🔄 Designed for real-world navigation systems  
 
 ---
 
 ### 🔗 Distributed URL Shortener
-- ⚡ Scalable backend using Node.js
-- 🔍 Fast redirection with optimized DB indexing
-- 🌐 REST API-based architecture
+🔗 [View Project](https://github.com/randhirkr153/url-shortener)
+- ⚡ Scalable backend using Node.js  
+- 🔍 Fast redirection with optimized DB indexing  
+- 🌐 REST API-based architecture  
 
----
-
-## 🏆 Achievements
-- 🧠 GATE CS Qualified (Score: 439)
-- 💪 Solved 250+ DSA Problems
-- 📜 NPTEL Certification (Computer Networks - IIT Kharagpur)
-- ☁️ AWS Academy Graduate
 
 ---
 
