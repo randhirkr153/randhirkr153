@@ -54,8 +54,8 @@
 
 ---
 
-### 🔗 Distributed URL Shortener
-🔗 [View Project](https://github.com/randhirkr153/url-shortener)
+### 🔗 LinkNova-System_Design
+🔗 [View Project](https://github.com/randhirkr153/LinkNova-SystemDesign)
 - ⚡ Scalable backend using Node.js  
 - 🔍 Fast redirection with optimized DB indexing  
 - 🌐 REST API-based architecture  
